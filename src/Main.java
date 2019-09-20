@@ -13,7 +13,7 @@ public class Main {
                 EXIT
         );
 
-        System.out.println("Witaj w grze!\n");
+        System.out.println("Witaj w grze!!\n");
         boolean displayMenu = true;
         while (displayMenu) {
             switch (menu.printMenuAndGetChoice()) {
