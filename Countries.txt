@@ -7,9 +7,10 @@ Chorwacja
 Cypr
 Czarnogóra
 Czechy
-Dania.
-Estonia.
-Finlandia. Francja.
+Dania
+Estonia
+Finlandia
+Francja
 Gibraltar
 Grecja
 Gruzja
@@ -41,3 +42,4 @@ Irak
 Iran
 Afganistan
 Brazylia
+Argentyna
